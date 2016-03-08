@@ -1,0 +1,28 @@
+name: Cali 2016
+favicon: null
+layout_spectrum: 0.7192708244547248
+typography_spectrum: 0.44383099395781755
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.07113139308057725
+  lightness: 0.7217404523398727
+  saturation: 0.10922933369874954
+  rhythmicContrast: 0.02237218478694558
+purpose: []
