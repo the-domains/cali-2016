@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Cali 2016]]></title>
         <description><![CDATA[Cali 2016]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/cali-2016/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 08 Mar 2016 08:28:07 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 08 Mar 2016 15:27:35 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/cali-2016/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/0d3e478e-d660-4d66-a716-8cd3cb0de387.jpg">]]></description>
-            <link>undefinedb30c7c42-350d-4550-bc82-f0928252b31c/index.html</link>
+            <link>https://thegrid.ai/cali-2016/b30c7c42-350d-4550-bc82-f0928252b31c/index.html</link>
             <guid isPermaLink="false">b30c7c42-350d-4550-bc82-f0928252b31c</guid>
-            <pubDate>Tue, 08 Mar 2016 08:27:58 GMT</pubDate>
+            <pubDate>Tue, 08 Mar 2016 15:27:09 GMT</pubDate>
         </item>
     </channel>
 </rss>
